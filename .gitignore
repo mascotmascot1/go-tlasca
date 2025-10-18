@@ -1,0 +1,5 @@
+/results/*
+!/results/result_ws1.png
+!/results/result_ws8.png
+!/results/result_ws16.png
+!/results/result_ws32.png

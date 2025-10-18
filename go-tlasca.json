@@ -1,0 +1,10 @@
+{
+    "paths":{
+        "data_dir":"data",
+        "results_dir":"results",
+        "output_filename":"result.png"
+    },
+    "algorithm":{
+        "window_size":1
+    }
+}
