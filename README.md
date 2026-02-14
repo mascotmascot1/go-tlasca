@@ -1,6 +1,6 @@
 [![Go](https://img.shields.io/badge/Go-1.20%2B-0099C2?style=flat-square)](https://go.dev)
 [![Release](https://img.shields.io/github/release/mascotmascot1/go-tlasca.svg?label=Release&color=0099C2&style=flat-square)](https://github.com/mascotmascot1/go-tlasca/releases/latest)
-[![License: MIT](https://img.shields.io/badge/License-MIT-0099C2?style=flat-square)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-0099C2?style=flat-square)](https://github.com/mascotmascot1/go-tlasca/blob/main/LICENSE)
 
 # go-tlasca <img src="https://raw.githubusercontent.com/mascotmascot1/media/main/in-use/gopher-go-tlasca.svg" alt="gopher" width="50" align="right">
 
@@ -238,5 +238,6 @@ warn: config file 'go-tlasca.json' not found, using default settings.
 Подробности см. в файле [`LICENSE`](./LICENSE).
 
 ---
+
 
 
